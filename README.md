@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m interested in learning new technologies and learning video game development
+- 🔭 I’m currently working on 2 game projects
 <!--
 **HaiMengg/HaiMengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
